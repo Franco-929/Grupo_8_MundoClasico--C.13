@@ -32,5 +32,7 @@ Permite hacer compras de más de un artículo y la forma de mostrarlos en una li
 
 - **Nicolas Lencina:** tengo 23 años. Me gustó mucho la programacion, los videoJuegos y las series. De los deportes me gusta muchisimo el voley y tambien juego a la pelota. Soy una persona muy curiosa  y que le llama mucho la atencion lo paranormal, lo sobrenatural y todo lo de ese estilo. Entré en el mundo de la programacion por una amigo y desde el momento en que me gusto no pude dejar de informarme y aprender mas y mas,espero poder tener muchos mas conocimientos y habilidades para el final del curso. :man_technologist:
 
--**Franco Choque:**  tengo 27 años. Me gusta el futbol, el Boxeo y algunos deportes mas. Tengo mucha curiosidad con la programacion, entre al curso FORMAR por mi hermana.
-  Espero poder adquirir mas conocimientos con respecto a la programacion, poder superarme personalmente y adaptarme laboralmente al mundo de la programacion al finalizar el curso.
+- **Franco Choque:**  tengo 27 años. Me gusta el futbol, el Boxeo y algunos deportes mas. Tengo mucha curiosidad con la programacion, entre al curso FORMAR por mi hermana.
+Espero poder adquirir mas conocimientos con respecto a la programacion, poder superarme personalmente y adaptarme laboralmente al mundo de la programacion al finalizar el curso.
+
+- **Carlos Osmar Cáceres:** Tengo 33 años, actualmente trabajo en una cooperativa de trabajo, pero hace tiempo que vengo investigando sobre programación y es un mundo increíble que te abre muchas puertas. Este año me puse como objetivo aprender a programar para poder trabajar de esto que me gusta y que es una constante capacitacion y superacion personal.
