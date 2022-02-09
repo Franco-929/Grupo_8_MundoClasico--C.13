@@ -26,3 +26,8 @@ En su página de registro tiene un diseño simple de completar, sin complicacion
 <hr>
 5.	Por la forma en como gestionan las compras. https://www.staples.com/Networking-Equipment-WiFi/cat_SC5487?icid=ELECTRONICS%20:LINKBOX5::VIEWALL::::
 Permite hacer compras de más de un artículo y la forma de mostrarlos en una lista es simple a la vista y da la posibilidad de modificar el carrito de comprar de forma ágil.
+
+<hr>
+## Equipo de trabajo ✒️
+
+- **Nicolas Lencina:** tengo 23 años. Me gustó mucho la programacion, los videoJuegos y las series. De los deportes me gusta muchisimo el voley y tambien juego a la pelota. Soy una persona muy curiosa  y que le llama mucho la atencion lo paranormal, lo sobrenatural y todo lo de ese estilo. Entré en el mundo de la programacion por una amigo y desde el momento en que me gusto no pude dejar de informarme y aprender mas y mas,espero poder tener muchos mas conocimientos y habilidades para el final del curso. :man_technologist:
