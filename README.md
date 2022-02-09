@@ -1,4 +1,15 @@
 # Grupo_8_MundoClasico--C.13
+
+<strong>Tematica del sitio:</strong> <br>Libreria Online 🎨
+<hr>
+<strong>Publico objetivo:</strong> <br>Publico general 👪
+<hr>
+<strong>¿De que se trata o que ofrecemos al mundo?:</strong> <br>Pagina de ventas de articulos de libreria. 
+Practica, de facil acceso y manejo 🎈, con diversidad de productos para que sea apta para cualquier 
+publico, tales como adultos oficinistas o padres 👨‍💼, jovenes universitarios, o quienes
+tengan interes en conocer el mundo de la artistica 🎭.
+
+
 ## 3. Buscar inspiración en referentes del mercado.
 Deberán realizar una búsqueda de sitios similares, relacionados o que sean de interés:
 1.	Por los productos o servicios que ofrecen. https://www.libreriamayorista.com.ar/
