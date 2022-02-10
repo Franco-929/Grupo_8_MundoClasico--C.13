@@ -13,6 +13,7 @@ tengan interes en conocer el mundo de la artistica 🎭.
 ## 3. Buscar inspiración en referentes del mercado.
 <br>
 Deberán realizar una búsqueda de sitios similares, relacionados o que sean de interés:
+<br>
 1.	Por los productos o servicios que ofrecen. https://www.libreriamayorista.com.ar/
 Es una página que cumple con la variedad de artículos que se van a comercializar en nuestro e-commerce. Puede ser buena referencia para obtener las imágenes y elegir los artículos
 <hr>
