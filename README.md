@@ -36,3 +36,5 @@ Permite hacer compras de más de un artículo y la forma de mostrarlos en una li
 Espero poder adquirir mas conocimientos con respecto a la programacion, poder superarme personalmente y adaptarme laboralmente al mundo de la programacion al finalizar el curso.
 
 - **Carlos Osmar Cáceres:** Tengo 33 años, actualmente trabajo en una cooperativa de trabajo, pero hace tiempo que vengo investigando sobre programación y es un mundo increíble que te abre muchas puertas. Este año me puse como objetivo aprender a programar para poder trabajar de esto que me gusta y que es una constante capacitacion y superacion personal.
+
+- **Evelin Alegre:** Tengo 27 años, Me gusta mucho el arte, estudie diseño gráfico, me encanta dibujar también soy tatuadora. Estaba por entrar a la carrera de diseñador de video juegos, pero vi la oportunidad de anotarme en la de programación y me anote, un amigo me la recomendo. Es una meta y sueño ser programadora ya que quiero trabajar de esto y poder irme a vivir afuera.
